@@ -1,0 +1,30 @@
+@media (max-width: 492px) {
+    .container {
+        width: 100%;
+        margin-top: 95%;
+        margin-left: 2px;
+    }
+
+    .container .texto h1 {
+        font-size: 30px;
+        width: 100%;
+    }
+
+    .container .texto .paragrafo {
+        width: 100%;
+    }
+    
+    .container .texto .numeros {
+        display: inline-block;
+        width: 20%;
+        margin-left: 30%;
+        align-items: center;
+        justify-content: center;
+
+    }
+    
+    .imagem img {
+        width: 97%;
+        margin-left: 10px;
+    }
+}
